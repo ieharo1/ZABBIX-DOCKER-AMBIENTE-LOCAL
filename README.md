@@ -158,6 +158,23 @@ Usar proxy reverso con SSL
 
 Isaac Haro
 
+---
+
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
+
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
+
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
+
 git branch -M main
 git remote add origin https://github.com/TU_USUARIO/ZABBIX-DOCKER-AMBIENTE-LOCAL.git
 git push -u origin main
